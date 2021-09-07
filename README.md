@@ -11,7 +11,7 @@ By the end of this, you should know:
 
 By the end of this, you should be able to:
 
-- Use Axios to call `GET /owner` API.
+- Use Axios to make a  `GET ` request to an API.
 
 ## Instructions
 
